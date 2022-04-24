@@ -1,7 +1,5 @@
 # Quiz App by using flutter
 
-## [Watch it on YouTube](https://youtu.be/Nhy0VWAMsFU)
-
 **Packages we are using:**
 
 - websafe_svg: [link](https://pub.dev/packages/websafe_svg)
